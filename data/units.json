@@ -1,0 +1,4 @@
+{
+  "temperatures": ["celsius", "farenheit", "kelvin"],
+  "currencies": ["euro", "dollar"]
+}
